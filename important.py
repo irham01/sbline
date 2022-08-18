@@ -2,7 +2,6 @@
 from linepy import *
 from akad.ttypes import ContentType as Type
 from akad.ttypes import TalkException, LoginRequest
-from akad.ttypes import LiffChatContext, LiffContext, LiffSquareChatContext, LiffNoneContext, LiffViewRequest
 from akad.ttypes import ChatRoomAnnouncementContents, OpType, MediaType, ApplicationType, ErrorCode, Message
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
