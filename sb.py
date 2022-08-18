@@ -12,7 +12,7 @@ Supported By:
 
 ©2021 Rework By Aldavi
 '''
-from important import *
+from linepy import *
 import youtube_dl
 import requests
 import humanize
