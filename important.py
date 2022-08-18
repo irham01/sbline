@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 from linepy import *
-from akad.ttypes import ContentType as Type
-from akad.ttypes import TalkException, LoginRequest
-from akad.ttypes import ChatRoomAnnouncementContents, OpType, MediaType, ApplicationType, ErrorCode, Message
+from akad.ttypes import ChatRoomAnnouncementContents, OpType, MediaType, ContentType, ApplicationType, TalkException, ErrorCode
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from humanfriendly import format_timespan, format_size, format_number, format_length
 from threading import Thread
 from urllib.parse import urlencode, quote
 from pathlib import Path
-import time, random, threading, sys, json, codecs, re, os, tempfile, shutil, urllib, requests, ast, pytz, atexit, traceback, base64, pafy, livejson, timeago, math, argparse,subprocess, platform, string
+import time, random, sys, json, codecs, re, os, shutil, requests, ast, pytz, atexit, traceback, base64, pafy, livejson, timeago, math, argparse
 
 try:
     if __modified__ != 'Zero Cool':
@@ -34,8 +32,7 @@ def update_non_existing_inplace(original_dict, to_add):
                     to_add[key][k] = v
     original_dict.update(to_add)
     return original_dict
-    
-    
+
 class SafeDict(dict):
     def __missing__(self, key):
         return '{' + key + '}'
