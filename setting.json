@@ -1,0 +1,112 @@
+{
+    "autoAdd": {
+        "status": false,
+        "message": "already deactive",
+        "reply": true
+    },
+    "autoJoin": {
+        "status": false,
+        "message": "already deactive",
+        "reply": false,
+        "ticket": true
+    },
+    "members": 10,
+    "groupjoin": 150,
+    "namegrup": "lpm",
+    "autoRead": false,
+    "autoRespond": {
+        "status": false,
+        "message": "already deactive"
+    },
+    "autoRespondMention": {
+        "status": false,
+        "message": "hi \udbc3\ude03\udbc0\udd6ehighfive\udbff\udfff"
+    },
+    "Addimage": false,
+    "runtime": 1584023403.734488,
+    "receivercount": 3827731,
+    "sendcount": 1991738,
+    "silent": [],
+    "protectkick": [
+        "c4426026bd7a9bbe29d719c5613b5e689"
+    ],
+    "protectinvite": [
+        "c4426026bd7a9bbe29d719c5613b5e689"
+    ],
+    "protectjoin": [
+        "c4426026bd7a9bbe29d719c5613b5e689"
+    ],
+    "protectcancel": [
+        "c4426026bd7a9bbe29d719c5613b5e689"
+    ],
+    "protectqr": [
+        "c4426026bd7a9bbe29d719c5613b5e689"
+    ],
+    "whitelist": [],
+    "blacklist": [],
+    "selfbackup": [],
+    "livetime": [],
+    "liveview": [],
+    "Img": {},
+    "changeGroupPicture": [],
+    "wordban": [],
+    "changePictureProfile": false,
+    "changeCoverProfile": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here joooin to chat",
+    "greet": {
+        "join": {
+            "status": false,
+            "message": "dude @!"
+        },
+        "leave": {
+            "status": false,
+            "message": "cemen gitu doang leave @!"
+        }
+    },
+    "myProfile": {
+        "coverId": "a06d47dcd176e2a0f2a77d3807cf346d",
+        "displayName": "\ud835\udc00\ud835\udc25\ud835\udc1d\ud835\udc1a\ud835\udc2f\ud835\udc22 \ud835\udc22\ud835\udc2a\ud835\udc1b\ud835\udc1a\ud835\udc25|\u2698\u4e48",
+        "pictureStatus": "0h10PYDD-abh9tIHj4TfgRSFFlYHIaDmhXFU8pLUEiZC1HRXxOWUd2Lhh3YCdJFS8eUkEgeB1zZHxC",
+        "statusMessage": "have a good day!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u275d\ud835\udc11\ud835\udc28\ud835\udc2c\ud835\udc1e\ud835\udc2c \ud835\udc01\ud835\udc25\ud835\udc28\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc05\ud835\udc28\ud835\udc2b\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b\u275e"
+    },
+    "mimic": {
+        "status": true,
+        "target": {}
+    },
+    "restartPoint": null,
+    "setKey": {
+        "status": false,
+        "key": "!"
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404",
+    "setanCredit": "YOU CAN USE AND RUN THIS SELFBOT,\nBUT DONT REMOVE WEBAREBEAR MID OR CREDIT LINK\nTQ :)",
+    "dontRemove": "u337c18ad01bdc582a952bbabe1832644",
+    "dontRemove1": "https://lin.ee/hzZujuI",
+    "lable": "https://instagram.com/Aldaviiqball",
+    "changevp": true,
+    "changeProfileVideo": false,
+    "updateProfile": false,
+    "autolike": false,
+    "getpost": false,
+    "invitekontak": false,
+    "autokomen": false,
+    "checkalbum": false,
+    "detectlive": false,
+    "detectTemplate": false,
+    "unsendMessage": false,
+    "detectspam": false,
+    "mentionkick": false,
+    "getposttl": false,
+    "responcall": false,
+    "detectflex": false,
+    "detectflextext": false,
+    "detectimage": false,
+    "detectlocation": false,
+    "detectvideo": false,
+    "detectkick": false,
+    "autoLike": false
+}
